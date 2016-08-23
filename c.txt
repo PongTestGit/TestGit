@@ -6,6 +6,9 @@ barnch test1
 barnch test1
 barnch test1
 เนื้อหาบรรทัดที่ 2 
+barnch test2
+barnch test2
+barnch test2
 เนื้อหาบรรทัดที่ 3
 เนื้อหาบรรทัดที่ 4
 เนื้อหาบรรทัดที่ 5
